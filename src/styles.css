@@ -1,1 +1,101 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background:#f5f5f5 }
+
+.full-area{
+    width: 100%;
+}
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;  
+}
+.text-left{
+    text-align: left;  
+}
+.margin-top{
+    margin-top: 30px;
+}
+.margin-left{
+    margin-left: 10px;
+}
+.error{
+    color: red;
+}
+.common-backgound{
+    background-color: white;
+}
+.outside-background{
+    background-color: aquamarine;
+}
+
+.ml20{
+    margin-left: 20px !important;
+}
+.mr20{
+    margin-right: 20px !important;
+}
+.mt20{
+    margin-top: 20px !important;
+}
+.mb20{
+    margin-bottom: 20px !important;
+}
+
+.ml70{
+    margin-left: 70px !important;
+}
+
+.ml10{
+    margin-left: 10px !important;
+}
+.mr0{
+    margin-right: 10px !important;
+}
+.mt10{
+    margin-top: 10px !important;
+}
+.mb10{
+    margin-bottom: 10px !important;
+}
+
+.ml5{
+    margin-left: 5px !important;
+}
+.mb100{
+    margin-bottom: 300px !important;
+}
+
+.profile-image{
+    width : 15%;
+    height : 20%;
+    border : 2px solid black;
+    border-radius:50%  
+}
+.profile-image-about{
+    width : 30%;
+    height : 30%;
+    border : 2px solid black;
+    border-radius:50%  
+}
+
+.table{
+    width: 100%;
+    border: 0.5px solid #e2e2e2;
+}
+.table tr td{
+    padding : 10px 15px;
+}
+
+.w100{
+    width: 100%;
+}
+.w50{
+    width: 50%;
+}
+
+.red{
+    color: red;
+}
